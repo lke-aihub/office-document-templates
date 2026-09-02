@@ -1,0 +1,4 @@
+interface:
+  display_name: "Office Document Templates"
+  short_description: "同时生成聊天成稿和规范排版Word的中文公文与职场文案"
+  default_prompt: "使用 $office-document-templates 起草文案，并同时输出聊天成稿和排版完成的 Word 文件。"
